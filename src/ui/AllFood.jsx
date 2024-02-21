@@ -23,11 +23,11 @@ function AllFood() {
     return (
       <>
         <div className="grid grid-cols-2 lg:grid-cols-3 gap-20">
-        <Loading />
-        <Loading />
-        <Loading />
-        <Loading />
-        <Loading />
+          <Loading />
+          <Loading />
+          <Loading />
+          <Loading />
+          <Loading />
         </div>
       </>
     );
